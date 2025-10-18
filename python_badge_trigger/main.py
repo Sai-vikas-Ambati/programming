@@ -12,7 +12,7 @@ import random
 def generate_message():
     quotes = [
         "Code is poetry written in logic.",
-        "Automation is the oxygen of productivity.",
+        "Automation is the  oxygen of productivity.",
         "Every line you write shapes tomorrow’s tech.",
         "Stay consistent — greatness compounds.",
     ]
